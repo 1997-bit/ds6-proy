@@ -1,0 +1,60 @@
+# ---- Global ----
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+
+# ---- Gradle global cache ----
+.gradle/
+**/.gradle/
+
+# ---- Android/Gradle build outputs ----
+**/build/
+**/captures/
+**/outputs/
+**/intermediates/
+**/.externalNativeBuild/
+**/.cxx/
+
+# ---- Kotlin ----
+**/.kotlin/
+
+# ---- Local SDK config ----
+**/local.properties
+
+# ---- IntelliJ / Android Studio ----
+.idea/
+**/.idea/
+*.iml
+*.ipr
+*.iws
+
+# ---- Keystore / secrets ----
+*.jks
+*.keystore
+keystore.properties
+**/google-services.json
+**/secrets.properties
+
+**/obj/
+**/lib/
+
+**/test-results/
+**/lint-results*.xml
+
+node_modules/
+
+ehthumbs.db
+Icon?
+
+
+
+!**/gradle/wrapper/gradle-wrapper.jar
+!**/gradle/wrapper/gradle-wrapper.properties
+!**/gradlew
+!**/gradlew.bat
+!**/settings.gradle.kts
+!**/build.gradle.kts
+!**/gradle.properties
