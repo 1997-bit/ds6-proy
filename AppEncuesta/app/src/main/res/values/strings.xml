@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App Encuesta</string>
+
+    <!-- Títulos y etiquetas -->
+    <string name="titulo_formulario">Encuesta de Preferencias</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="label_comida">Comida favorita</string>
+    <string name="label_pasatiempo">Pasatiempo favorito</string>
+    <string name="label_deporte">Practicas algún deporte</string>
+
+    <!-- Opciones de comida -->
+    <string name="comida_italiana">Italiana</string>
+    <string name="comida_china">China</string>
+    <string name="comida_panamena">Panameña</string>
+
+    <!-- Botones -->
+    <string name="btn_seleccionar_fecha">Seleccionar fecha de nacimiento</string>
+    <string name="btn_mensaje_divertido">Mensaje divertido</string>
+    <string name="btn_mostrar_resultados">Mostrar resultados</string>
+    <string name="btn_aceptar">Aceptar</string>
+
+    <!-- Mensajes -->
+    <string name="fecha_no_seleccionada">Fecha no seleccionada</string>
+    <string name="mensaje_toast">El pollo se sentó y se murió</string>
+    <string name="error_campos">Por favor completa todos los campos</string>
+    <string name="titulo_alerta">Resultados de la encuesta</string>
+
+    <!-- Descripciones contentDescription -->
+    <string name="desc_imagen_comida">Imagen representativa de la comida seleccionada</string>
+</resources>
