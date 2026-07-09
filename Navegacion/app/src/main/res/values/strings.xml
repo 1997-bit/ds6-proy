@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+
+    <!-- Menú principal -->
+    <string name="menu_encuesta">Encuesta</string>
+    <string name="menu_conversion_peso">Conversión de Peso</string>
+    <string name="menu_conversion_moneda">Conversión de Moneda</string>
+
+    <!-- Encuesta: títulos y etiquetas -->
+    <string name="titulo_formulario">Encuesta de Preferencias</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="label_comida">Comida favorita</string>
+    <string name="label_pasatiempo">Pasatiempo favorito</string>
+    <string name="label_deporte">Practicas algún deporte</string>
+
+    <!-- Encuesta: opciones de comida -->
+    <string name="comida_italiana">Italiana</string>
+    <string name="comida_china">China</string>
+    <string name="comida_panamena">Panameña</string>
+
+    <!-- Encuesta: botones -->
+    <string name="btn_seleccionar_fecha">Seleccionar fecha de nacimiento</string>
+    <string name="btn_mensaje_divertido">Mensaje divertido</string>
+    <string name="btn_mostrar_resultados">Mostrar resultados</string>
+    <string name="btn_aceptar">Aceptar</string>
+
+    <!-- Encuesta: mensajes -->
+    <string name="fecha_no_seleccionada">Fecha no seleccionada</string>
+    <string name="mensaje_toast">El pollo se sentó y se murió</string>
+    <string name="error_campos">Por favor completa todos los campos</string>
+    <string name="titulo_alerta">Resultados de la encuesta</string>
+
+    <!-- Encuesta: descripciones contentDescription -->
+    <string name="desc_imagen_comida">Imagen representativa de la comida seleccionada</string>
+</resources>
